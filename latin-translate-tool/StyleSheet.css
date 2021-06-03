@@ -1,0 +1,39 @@
+body {
+	background-color: rgb(253,253,253);
+	margin: .75in;
+	font-size: 1.5vmax;
+	font-family: "Times New Roman", Times, serif;
+}
+
+body div{
+	display: block;
+}
+
+textarea {
+	background-color: rgb(240,240,240);
+	height: 15vw;
+	width: 50vw;
+}
+
+a:link, a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: blue;
+	text-decoration: underline;
+}
+
+#inputTitle {
+	margin-bottom: 1vw;
+	padding: 0px;
+}
+
+#formatedOutput {
+	width: 100%; 
+	margin-top: 2vw;
+	white-space: pre-wrap; 
+	font-size: 1.5vmax;
+	font-family: "Times New Roman", Times, serif;
+}
