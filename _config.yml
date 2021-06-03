@@ -8,7 +8,7 @@ author:
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: 
+path:
 url:  'http://ryanlodter.com/'
 
 
@@ -22,6 +22,8 @@ sass:
   style:    expanded
 
 permalink: /:title.html
+
+include: ['_pages']
 
 exclude:
 - README.md
