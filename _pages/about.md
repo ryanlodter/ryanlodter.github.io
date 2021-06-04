@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/images/me.JPG" alt="photo of me" width="200px"/>
 
-Hello! I'm Ryan Lodter. I'm a computer science student at The Ohio State University specializing in computer systems. I type curly braces and semicolons a lot.
+Hello! I'm Ryan Lodter. I'm a computer science student at The Ohio State University specializing in computer systems.
 
 <hr/>
 
