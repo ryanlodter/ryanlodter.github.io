@@ -29,7 +29,7 @@ a {
   strong {
     color: inherit;
   }
-  
+
   &:hover,
   &:focus {
     text-decoration: underline;
@@ -118,7 +118,7 @@ pre {
     color: inherit;
     background-color: transparent;
   }
-}  
+}
 
 
 /////////////////////
@@ -191,11 +191,11 @@ table {
     margin-top: 0;
     margin-bottom: 0;
     color: $masthead-color;
-  
+
     a {
       color: $masthead-color;
     }
-    
+
     small {
       color: $masthead-small-color;
       font-size: 75%;
@@ -231,5 +231,21 @@ table {
 }
 
 .post-date {
-  color: $post-date-color;  
+  color: $post-date-color;
+}
+
+#search-container {
+  text-align: center;
+}
+
+#search-input {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 18px;
+  background-color: #fff3ff;
 }
