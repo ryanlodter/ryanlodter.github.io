@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<center>
 <img src="/images/me.JPG" alt="photo of me" width="200px"/>
+</center>
 
 Hello! I'm Ryan Lodter. I'm a computer science student at The Ohio State University specializing in computer systems.
 
