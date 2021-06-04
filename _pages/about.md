@@ -17,8 +17,8 @@ Hello! I'm Ryan Lodter. I'm a computer science student at The Ohio State Univers
 **Education**
 - The Ohio State University
     - *Major:* B.S. in Computer Science specializing in computer systems
-    - *Projected graduation:* August 2022
-    - *Completed relevant coursework:* Operating Systems, Intro to Low-Level Programming, Data Structures and Algorithms, Development and
+    - *Projected graduation:* April 2022
+    - *Completed relevant coursework:* Software Engineering Methodologies, Operating Systems, Intro to Low-Level Programming, Data Structures and Algorithms, Development and
     Design (Java), Statistics for Engineers, Calculus 2
 
 **Projects**
@@ -48,6 +48,9 @@ Hello! I'm Ryan Lodter. I'm a computer science student at The Ohio State Univers
     - Unix, SwiftUI, Git, JUnit, Agile
 
 **Experience**
+- Flexibits
+    - *Software Engineering Intern:* May 2021 - Present
+        - Develop Fantastical and Cardhop iOS and macOS apps
 - The Ohio State University
     - *Resident Advisor:* August 2020 - Present
         - Manage 35 residents and plan community events
