@@ -15,7 +15,7 @@ permalink: /projects/
 - [Date Difference Calcuator]()
     - Built using Python
     - CLT that takes in two dates and outputs the difference in days.
-- [Latin Translate Tool]()
+- [Latin Translate Tool](/projects)
     - Built using JavaScript, HTML, CSS
     - Web app that converts Latin text into a clickable document which links to definition of each word
 - [Trading Alforithm]()
