@@ -249,3 +249,70 @@ table {
   font-size: 18px;
   background-color: white;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color:            $body-color-dark;
+    background-color: $body-background-color-dark;
+  }
+
+  //////////////
+  // Links
+
+  a {
+    color:           $link-color-dark;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color:          $headings-color-dark;
+  }
+
+  strong {
+    color: $strong-color-dark;
+  }
+
+  pre {
+    background-color: $pre-background-color-dark;
+  }
+
+  blockquote {
+    color: $blockquote-color-dark;
+    border-left: .25rem solid $blockquote-border-color-dark;
+  }
+
+  table {
+    border: 1px solid $table-border-color-dark;
+
+    td,
+    th {
+     border: 1px solid $table-border-color-dark;
+    }
+
+    tr:nth-child(odd) td,
+    tr:nth-child(odd) th {
+      background-color: $table-odd-background-color-dark;
+    }
+  }
+
+   .masthead-title {
+      color: $masthead-color-dark;
+
+      a {
+        color: $masthead-color-dark;
+      }
+
+      small {
+        color: $masthead-small-color-dark;
+      }
+    }
+  }
+
+  .post-title,
+  .post-title a {
+    color: $post-title-color-dark;
+  }
+
+  .post-date {
+    color: $post-date-color-dark;
+  }
+}
