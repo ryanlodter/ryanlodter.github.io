@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Date Difference Calculator Project"
+title: "How to Account for Leap Years when Computing Date Differences"
 ---
 
 ### What I Made
