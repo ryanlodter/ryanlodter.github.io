@@ -256,9 +256,6 @@ table {
     background-color: $body-background-color-dark;
   }
 
-  //////////////
-  // Links
-
   a {
     color:           $link-color-dark;
   }
@@ -294,15 +291,17 @@ table {
     }
   }
 
-  .masthead-title {
-    color: $masthead-color-dark;
-
-    a {
+  .masthead {
+    .masthead-title {
       color: $masthead-color-dark;
-    }
 
-    small {
-      color: $masthead-small-color-dark;
+      a {
+        color: $masthead-color-dark;
+      }
+
+      small {
+        color: $masthead-small-color-dark;
+      }
     }
   }
 
