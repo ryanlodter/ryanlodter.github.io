@@ -294,16 +294,15 @@ table {
     }
   }
 
-   .masthead-title {
+  .masthead-title {
+    color: $masthead-color-dark;
+
+    a {
       color: $masthead-color-dark;
+    }
 
-      a {
-        color: $masthead-color-dark;
-      }
-
-      small {
-        color: $masthead-small-color-dark;
-      }
+    small {
+      color: $masthead-small-color-dark;
     }
   }
 
