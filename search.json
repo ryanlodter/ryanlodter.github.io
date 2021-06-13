@@ -20,6 +20,7 @@ layout: none
         "category" : "{{ page.category }}",
         "tags"     : "{{ page.tags | join: ', ' }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "date"     : "",
         "content"  : "{{ page.content | strip_html | strip_newlines }}"
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
