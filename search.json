@@ -14,9 +14,9 @@ layout: none
   {% endfor %}
   ,
   {% for page in site.pages %}
-  {% unless page.search == "exclude" %}
    {
      {% if page.title != nil %}
+     {% unless page.search == "exclude" %}
         "title"    : "{{ page.title | escape }}",
         "category" : "{{ page.category }}",
         "tags"     : "{{ page.tags | join: ', ' }}",
