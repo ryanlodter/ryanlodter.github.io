@@ -7,7 +7,7 @@ search: exclude
 
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Type to search...">
-    <ul id="results-container" id="content"></ul>
+    <ul id="results-container"></ul>
 </div>
 
 <script src="{{ site.baseurl }}/simple-jekyll-search.min.js" type="text/javascript"></script>
