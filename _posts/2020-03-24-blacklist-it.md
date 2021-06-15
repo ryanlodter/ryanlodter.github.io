@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blacklist it!: Filtering extension for r/Popular on Reddit"
+title: "Blacklist It!: Filtering Extension for r/Popular on Reddit"
 ---
 
 ### What I Made
